@@ -1,7 +1,7 @@
 >[!WARNING]
 >CURRENTLY UNDER DEVELOPMENT
 
-# Logging with html
+# Logging with html in Pythonn
 
 html form to fetch user input
 log the results with flask
@@ -22,11 +22,13 @@ python3 listen_to_request_and_respond_with_flask.py
 
 ---
 
-## Features:
+## Features
+
+CLI
 
 ---
 
-### Tech-Stack:
+### Tech-Stack
 
 - Python
 - HTML
